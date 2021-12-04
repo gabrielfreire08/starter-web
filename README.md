@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 ## Copyright
 
 2021 Copyright
+
+## How to contribute
+Hi
